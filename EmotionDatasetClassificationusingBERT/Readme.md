@@ -1,0 +1,1 @@
+In this project, I did multiclass text classification on Kaggle Emotions [Dataset](https://www.kaggle.com/datasets/pashupatigupta/emotion-detection-from-text) using NLTK and BERT with Tensorflow Keras functional Model. The dataset contained 40000 rows and 3 columns. There are total of 13 labels in the sentimenet column.
